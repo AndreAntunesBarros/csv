@@ -1,6 +1,6 @@
 <?php
 
-namespace PringStudio\Http\Middleware;
+namespace csv_creator\Http\Middleware;
 
 use Illuminate\Cookie\Middleware\EncryptCookies as BaseEncrypter;
 

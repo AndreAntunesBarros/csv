@@ -1,6 +1,6 @@
 <?php
 
-namespace PringStudio\Http\Middleware;
+namespace csv_creator\Http\Middleware;
 
 use Closure;
 use Illuminate\Support\Facades\Auth;

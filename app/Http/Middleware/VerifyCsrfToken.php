@@ -1,6 +1,6 @@
 <?php
 
-namespace PringStudio\Http\Middleware;
+namespace csv_creator\Http\Middleware;
 
 use Illuminate\Foundation\Http\Middleware\VerifyCsrfToken as BaseVerifier;
 

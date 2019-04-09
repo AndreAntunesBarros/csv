@@ -1,6 +1,6 @@
 <?php
 
-namespace PringStudio\Providers;
+namespace csv_creator\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

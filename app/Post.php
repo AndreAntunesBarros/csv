@@ -1,6 +1,6 @@
 <?php
 
-namespace PringStudio;
+namespace csv_creator;
 
 use Illuminate\Database\Eloquent\Model;
 

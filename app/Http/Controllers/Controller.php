@@ -1,6 +1,6 @@
 <?php
 
-namespace PringStudio\Http\Controllers;
+namespace csv_creator\Http\Controllers;
 
 use Illuminate\Foundation\Bus\DispatchesJobs;
 use Illuminate\Routing\Controller as BaseController;

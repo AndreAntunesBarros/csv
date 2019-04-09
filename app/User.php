@@ -1,6 +1,6 @@
 <?php
 
-namespace PringStudio;
+namespace csv_creator;
 
 use Laravel\Passport\HasApiTokens;
 use Illuminate\Notifications\Notifiable;
@@ -29,6 +29,6 @@ class User extends Authenticatable
     ];
 
     public function posts(){
-        return $this->hasMany('PringStudio\Post');
+        return $this->hasMany('csv_creator\Post');
     }
 }

@@ -28,17 +28,17 @@ $app = new Illuminate\Foundation\Application(
 
 $app->singleton(
     Illuminate\Contracts\Http\Kernel::class,
-    PringStudio\Http\Kernel::class
+    csv_creator\Http\Kernel::class
 );
 
 $app->singleton(
     Illuminate\Contracts\Console\Kernel::class,
-    PringStudio\Console\Kernel::class
+    csv_creator\Console\Kernel::class
 );
 
 $app->singleton(
     Illuminate\Contracts\Debug\ExceptionHandler::class,
-    PringStudio\Exceptions\Handler::class
+    csv_creator\Exceptions\Handler::class
 );
 
 /*

@@ -1,6 +1,6 @@
 <?php
 
-namespace PringStudio\Console\Commands;
+namespace csv_creator\Console\Commands;
 
 use Illuminate\Console\Command;
 

@@ -172,11 +172,11 @@ return [
         /*
          * Application Service Providers...
          */
-        PringStudio\Providers\AppServiceProvider::class,
-        PringStudio\Providers\AuthServiceProvider::class,
-        // PringStudio\Providers\BroadcastServiceProvider::class,
-        PringStudio\Providers\EventServiceProvider::class,
-        PringStudio\Providers\RouteServiceProvider::class,
+        csv_creator\Providers\AppServiceProvider::class,
+        csv_creator\Providers\AuthServiceProvider::class,
+        // csv_creator\Providers\BroadcastServiceProvider::class,
+        csv_creator\Providers\EventServiceProvider::class,
+        csv_creator\Providers\RouteServiceProvider::class,
 
     ],
 

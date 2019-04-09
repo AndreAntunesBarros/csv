@@ -1,6 +1,6 @@
 <?php
 
-namespace PringStudio\Exceptions;
+namespace csv_creator\Exceptions;
 
 use Exception;
 use Illuminate\Auth\AuthenticationException;

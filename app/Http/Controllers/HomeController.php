@@ -1,6 +1,6 @@
 <?php
 
-namespace PringStudio\Http\Controllers;
+namespace csv_creator\Http\Controllers;
 
 use Illuminate\Http\Request;
 

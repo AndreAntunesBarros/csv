@@ -67,7 +67,7 @@ return [
     'providers' => [
         'users' => [
             'driver' => 'eloquent',
-            'model' => PringStudio\User::class,
+            'model' => csv_creator\User::class,
         ],
 
         // 'users' => [

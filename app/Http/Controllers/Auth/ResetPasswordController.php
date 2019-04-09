@@ -1,8 +1,8 @@
 <?php
 
-namespace PringStudio\Http\Controllers\Auth;
+namespace csv_creator\Http\Controllers\Auth;
 
-use PringStudio\Http\Controllers\Controller;
+use csv_creator\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\ResetsPasswords;
 
 class ResetPasswordController extends Controller

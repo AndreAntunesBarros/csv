@@ -30,7 +30,7 @@ return [
     ],
 
     'stripe' => [
-        'model' => PringStudio\User::class,
+        'model' => csv_creator\User::class,
         'key' => env('STRIPE_KEY'),
         'secret' => env('STRIPE_SECRET'),
     ],

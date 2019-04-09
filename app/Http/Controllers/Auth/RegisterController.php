@@ -1,10 +1,10 @@
 <?php
 
-namespace PringStudio\Http\Controllers\Auth;
+namespace csv_creator\Http\Controllers\Auth;
 
-use PringStudio\User;
+use csv_creator\User;
 use Validator;
-use PringStudio\Http\Controllers\Controller;
+use csv_creator\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\RegistersUsers;
 
 class RegisterController extends Controller

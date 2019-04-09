@@ -1,6 +1,6 @@
 <?php
 
-namespace PringStudio\Providers;
+namespace csv_creator\Providers;
 
 use Laravel\Passport\Passport;
 use Illuminate\Support\Facades\Gate;
@@ -14,7 +14,7 @@ class AuthServiceProvider extends ServiceProvider
      * @var array
      */
     protected $policies = [
-        'PringStudio\Model' => 'PringStudio\Policies\ModelPolicy',
+        'csv_creator\Model' => 'csv_creator\Policies\ModelPolicy',
     ];
 
     /**
